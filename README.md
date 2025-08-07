@@ -1,4 +1,4 @@
-### SYNGRAID
+# SYNGRAID_PROJECTS
 The official code implementation of SYNGRAID from our paper:
 
 SYNGRAID: A Retrosynthetic AI Model for Small Molecule Detection Using a Biomedical Knowledge Graph Integrating Diseases, Drugs, and Genes
@@ -29,7 +29,7 @@ First, clone this repository:
 bash
 Copier
 Modifier
-git clone https://github.com/<your-org-or-username>/SYNGRAID.git
+git clone[ https://github.com/<your-org-or-username>/SYNGRAID.git](https://github.com/NNJK45/SYNGRAID_PROJECTS.git)
 cd SYNGRAID
 bash
 Copier
