@@ -1,7 +1,10 @@
 import argparse
 import os
 from collections import OrderedDict
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 import numpy as np
 import sys
 import pickle
@@ -145,7 +148,7 @@ def cross_validation():
                 auroc, aupr = evaluate(sess, model, "valid", valid_manager, logger, fold_num)
                 print("fold {} valid auroc :{:>.5f}".format(fold_num + 1, auroc))
                 print("fold {} valid aupr :{:>.5f}".format(fold_num + 1, aupr))
-            # save_model(sess, model, ckptpath, logger)
+            save_model(sess, model, ckptpath, logger)
             final_test_auroc, final_test_aupr = evaluate(sess, model, "test", test_manager, logger, fold_num)
             final_all_auroc.append(final_test_auroc)
             final_all_aupr.append(final_test_aupr)
@@ -180,6 +183,7 @@ def evaluate(sess, model, name, data, logger, fold_num=0):
 
 
 if __name__ == "__main__":
+    mode= "cv"
     if mode == "cv":
         cross_validation()
     elif mode == "case":

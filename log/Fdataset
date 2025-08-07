@@ -1,0 +1,1093 @@
+2025-01-16 12:57:30,998 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 12:57:31,000 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:00:43,496 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:00:43,498 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:03:17,606 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:03:17,614 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:05:50,186 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:05:50,187 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:07:32,787 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:07:32,788 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:12:46,207 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:12:46,217 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:13:23,305 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:13:23,306 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:24:27,227 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:24:27,230 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:28:49,707 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:28:49,713 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:29:40,219 - .\log/Fdataset - INFO - drug count :593
+2025-01-16 13:29:40,228 - .\log/Fdataset - INFO - disease count:313
+2025-01-16 13:29:43,383 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 13:29:43,899 - .\log/Fdataset - INFO - start training fold 1
+2025-01-16 13:30:08,230 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.213649
+2025-01-16 13:30:33,078 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.131290
+2025-01-16 13:30:54,094 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.094841
+2025-01-16 13:30:56,369 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:31:20,570 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.048926
+2025-01-16 13:31:50,862 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.052977
+2025-01-16 13:32:16,165 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.133764
+2025-01-16 13:32:19,670 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:32:43,865 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.053081
+2025-01-16 13:33:06,344 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.063772
+2025-01-16 13:33:31,990 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.052534
+2025-01-16 13:33:36,994 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:34:05,512 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.048623
+2025-01-16 13:34:26,770 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.040978
+2025-01-16 13:34:51,097 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.071991
+2025-01-16 13:34:56,845 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:35:18,075 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.057915
+2025-01-16 13:35:40,770 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050537
+2025-01-16 13:36:02,243 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.055384
+2025-01-16 13:36:09,208 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:36:26,946 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.045239
+2025-01-16 13:36:52,528 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.052659
+2025-01-16 13:37:25,903 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.043391
+2025-01-16 13:37:34,308 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:37:54,216 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.050617
+2025-01-16 13:38:19,875 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.043272
+2025-01-16 13:38:45,843 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.038713
+2025-01-16 13:38:58,437 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:39:15,765 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.041980
+2025-01-16 13:39:41,827 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.041309
+2025-01-16 13:40:04,919 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.040635
+2025-01-16 13:40:15,546 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:40:33,545 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.035634
+2025-01-16 13:40:58,247 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.032438
+2025-01-16 13:41:20,862 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.035557
+2025-01-16 13:41:31,487 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:41:47,586 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.033600
+2025-01-16 13:42:11,696 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.033938
+2025-01-16 13:42:34,395 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.029197
+2025-01-16 13:42:47,434 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:43:01,937 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.033977
+2025-01-16 13:43:25,931 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.029263
+2025-01-16 13:43:47,136 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.027301
+2025-01-16 13:43:59,624 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:44:11,999 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.026562
+2025-01-16 13:44:33,500 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.023431
+2025-01-16 13:44:55,069 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.030570
+2025-01-16 13:45:09,961 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:45:23,618 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.023588
+2025-01-16 13:45:46,320 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.020099
+2025-01-16 13:46:08,263 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.023527
+2025-01-16 13:46:23,273 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:46:34,430 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.021573
+2025-01-16 13:46:56,618 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.015499
+2025-01-16 13:47:19,513 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.021592
+2025-01-16 13:47:35,833 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:47:45,238 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.016323
+2025-01-16 13:48:06,761 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.017490
+2025-01-16 13:48:28,376 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.017981
+2025-01-16 13:48:45,648 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:48:48,385 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 13:48:51,104 - .\log/Fdataset - INFO - fold 1 final test auroc :0.90007
+2025-01-16 13:48:51,105 - .\log/Fdataset - INFO - fold 1 final test aupr :0.45201
+2025-01-16 13:48:56,772 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 13:48:57,338 - .\log/Fdataset - INFO - start training fold 2
+2025-01-16 13:49:20,802 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.240427
+2025-01-16 13:49:42,145 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.089685
+2025-01-16 13:50:03,841 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.086864
+2025-01-16 13:50:05,598 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:50:30,040 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.059523
+2025-01-16 13:50:51,728 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.045823
+2025-01-16 13:51:15,003 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.057002
+2025-01-16 13:51:18,018 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:51:40,079 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.043284
+2025-01-16 13:52:01,993 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.050764
+2025-01-16 13:52:24,306 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.070857
+2025-01-16 13:52:31,437 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:52:53,977 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.080027
+2025-01-16 13:53:18,643 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.050806
+2025-01-16 13:53:41,374 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.050805
+2025-01-16 13:53:46,987 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:54:09,290 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.044262
+2025-01-16 13:54:32,308 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.048781
+2025-01-16 13:54:54,672 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.056879
+2025-01-16 13:55:01,264 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:55:20,938 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.042625
+2025-01-16 13:55:44,563 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.049450
+2025-01-16 13:56:08,463 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039414
+2025-01-16 13:56:16,164 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:56:34,658 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.040383
+2025-01-16 13:56:57,159 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.033456
+2025-01-16 13:57:19,439 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.043120
+2025-01-16 13:57:28,438 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:57:45,366 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.038839
+2025-01-16 13:58:06,873 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.033620
+2025-01-16 13:58:30,026 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.031763
+2025-01-16 13:58:39,471 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 13:58:57,711 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.033253
+2025-01-16 13:59:19,455 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.035644
+2025-01-16 13:59:41,859 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.033896
+2025-01-16 13:59:52,388 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:00:06,938 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.032030
+2025-01-16 14:00:28,927 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.028751
+2025-01-16 14:00:50,693 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.028177
+2025-01-16 14:01:02,469 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:01:16,154 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.024424
+2025-01-16 14:01:37,824 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.023954
+2025-01-16 14:01:59,695 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.029366
+2025-01-16 14:02:13,543 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:02:28,031 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.025420
+2025-01-16 14:02:50,319 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.020069
+2025-01-16 14:03:13,229 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.023943
+2025-01-16 14:03:28,733 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:03:40,314 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.020201
+2025-01-16 14:04:03,376 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.020814
+2025-01-16 14:04:25,450 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.020375
+2025-01-16 14:04:41,060 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:04:51,664 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.024424
+2025-01-16 14:05:14,028 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.017733
+2025-01-16 14:05:35,412 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.018165
+2025-01-16 14:05:52,418 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:06:01,634 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.012953
+2025-01-16 14:06:23,430 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.014053
+2025-01-16 14:06:44,996 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.015637
+2025-01-16 14:07:01,954 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:07:04,685 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 14:07:07,396 - .\log/Fdataset - INFO - fold 2 final test auroc :0.92902
+2025-01-16 14:07:07,397 - .\log/Fdataset - INFO - fold 2 final test aupr :0.45451
+2025-01-16 14:07:11,834 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 14:07:12,242 - .\log/Fdataset - INFO - start training fold 3
+2025-01-16 14:07:35,054 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.210654
+2025-01-16 14:07:57,636 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.071141
+2025-01-16 14:08:19,134 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.065808
+2025-01-16 14:08:21,064 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:08:51,659 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.057174
+2025-01-16 14:09:18,814 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.047392
+2025-01-16 14:09:50,694 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.070739
+2025-01-16 14:09:54,149 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:10:20,774 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.068444
+2025-01-16 14:10:44,839 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.055606
+2025-01-16 14:11:09,061 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.048018
+2025-01-16 14:11:13,344 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:11:36,095 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.047095
+2025-01-16 14:12:01,074 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.051062
+2025-01-16 14:12:23,574 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.041167
+2025-01-16 14:12:28,954 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:12:50,049 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.046261
+2025-01-16 14:13:14,267 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.036476
+2025-01-16 14:13:39,844 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.042022
+2025-01-16 14:13:46,689 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:14:07,364 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.036085
+2025-01-16 14:14:32,374 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.040443
+2025-01-16 14:14:56,091 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039714
+2025-01-16 14:15:03,129 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:15:23,078 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.027601
+2025-01-16 14:15:47,291 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.037817
+2025-01-16 14:16:09,797 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.031845
+2025-01-16 14:16:18,150 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:16:35,520 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.029698
+2025-01-16 14:16:57,993 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.031398
+2025-01-16 14:17:25,125 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.026433
+2025-01-16 14:17:35,204 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:17:50,939 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.024474
+2025-01-16 14:18:13,755 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.023328
+2025-01-16 14:18:35,233 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.024918
+2025-01-16 14:18:46,825 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:19:02,357 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.020584
+2025-01-16 14:19:25,901 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.016059
+2025-01-16 14:19:49,843 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.023570
+2025-01-16 14:20:01,745 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:20:15,493 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.015840
+2025-01-16 14:20:36,992 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.013307
+2025-01-16 14:20:59,881 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.016686
+2025-01-16 14:21:12,204 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:21:24,338 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.014470
+2025-01-16 14:21:45,431 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.011784
+2025-01-16 14:22:06,787 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.012111
+2025-01-16 14:22:23,040 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:22:38,199 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.009191
+2025-01-16 14:23:10,187 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.008717
+2025-01-16 14:23:37,922 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.008508
+2025-01-16 14:23:56,529 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:24:08,562 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.010132
+2025-01-16 14:24:31,151 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.006516
+2025-01-16 14:24:55,234 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.008553
+2025-01-16 14:25:13,211 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:25:25,405 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.007665
+2025-01-16 14:25:48,386 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.006716
+2025-01-16 14:26:15,350 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.004384
+2025-01-16 14:26:39,072 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:26:43,163 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 14:26:46,275 - .\log/Fdataset - INFO - fold 3 final test auroc :0.95001
+2025-01-16 14:26:46,275 - .\log/Fdataset - INFO - fold 3 final test aupr :0.62830
+2025-01-16 14:26:50,138 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 14:26:50,569 - .\log/Fdataset - INFO - start training fold 4
+2025-01-16 14:27:13,928 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.260684
+2025-01-16 14:27:36,348 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.093802
+2025-01-16 14:28:02,653 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.071650
+2025-01-16 14:28:04,608 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:28:27,954 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.094938
+2025-01-16 14:28:50,019 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.049356
+2025-01-16 14:29:11,685 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.051508
+2025-01-16 14:29:14,653 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:29:41,275 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.050374
+2025-01-16 14:30:06,421 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.044681
+2025-01-16 14:30:30,938 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.051584
+2025-01-16 14:30:34,850 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:30:59,384 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.046985
+2025-01-16 14:31:22,946 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.047371
+2025-01-16 14:31:47,857 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.043048
+2025-01-16 14:31:53,800 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:32:20,383 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.051136
+2025-01-16 14:32:46,895 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050478
+2025-01-16 14:33:12,935 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.048913
+2025-01-16 14:33:19,135 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:33:39,725 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.047479
+2025-01-16 14:34:12,977 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.058310
+2025-01-16 14:34:36,054 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039778
+2025-01-16 14:34:46,231 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:35:07,371 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.048873
+2025-01-16 14:35:32,015 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.037710
+2025-01-16 14:35:57,149 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.039978
+2025-01-16 14:36:05,664 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:36:22,129 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.032100
+2025-01-16 14:36:43,800 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.035299
+2025-01-16 14:37:05,183 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.031288
+2025-01-16 14:37:14,304 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:37:30,034 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.030459
+2025-01-16 14:37:51,430 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.032621
+2025-01-16 14:38:12,979 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.025930
+2025-01-16 14:38:23,598 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:38:38,095 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.022763
+2025-01-16 14:38:59,609 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.022922
+2025-01-16 14:39:21,158 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024739
+2025-01-16 14:39:32,877 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:39:46,374 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.021783
+2025-01-16 14:40:07,770 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.019645
+2025-01-16 14:40:29,019 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.021431
+2025-01-16 14:40:41,304 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:40:53,684 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.020176
+2025-01-16 14:41:14,987 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.015317
+2025-01-16 14:41:36,564 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.017724
+2025-01-16 14:41:50,220 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:42:01,535 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.017289
+2025-01-16 14:42:23,445 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.014643
+2025-01-16 14:42:44,664 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.014503
+2025-01-16 14:42:59,484 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:43:09,828 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.015851
+2025-01-16 14:43:31,390 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.012869
+2025-01-16 14:43:52,726 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.013106
+2025-01-16 14:44:09,121 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:44:18,190 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.012776
+2025-01-16 14:44:40,544 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.011291
+2025-01-16 14:45:01,916 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.011209
+2025-01-16 14:45:19,419 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:45:23,844 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 14:45:26,680 - .\log/Fdataset - INFO - fold 4 final test auroc :0.93330
+2025-01-16 14:45:26,680 - .\log/Fdataset - INFO - fold 4 final test aupr :0.61323
+2025-01-16 14:45:30,605 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 14:45:31,111 - .\log/Fdataset - INFO - start training fold 5
+2025-01-16 14:45:54,095 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.261691
+2025-01-16 14:46:16,667 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.157486
+2025-01-16 14:46:38,150 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.094516
+2025-01-16 14:46:39,569 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:47:03,009 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.076659
+2025-01-16 14:47:24,785 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.061833
+2025-01-16 14:47:47,083 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.058318
+2025-01-16 14:47:50,089 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:48:12,106 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.055352
+2025-01-16 14:48:33,379 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.060730
+2025-01-16 14:48:55,084 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.038711
+2025-01-16 14:48:59,025 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:49:20,184 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.039579
+2025-01-16 14:49:41,344 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.048259
+2025-01-16 14:50:02,945 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.062913
+2025-01-16 14:50:07,725 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:50:27,825 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.050741
+2025-01-16 14:50:50,385 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050083
+2025-01-16 14:51:15,470 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.041582
+2025-01-16 14:51:23,435 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:51:50,245 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.039151
+2025-01-16 14:52:15,153 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.042954
+2025-01-16 14:52:44,655 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.047908
+2025-01-16 14:52:56,741 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:53:24,434 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.035657
+2025-01-16 14:53:51,710 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.035397
+2025-01-16 14:54:16,765 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.038780
+2025-01-16 14:54:26,645 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:54:45,985 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.034853
+2025-01-16 14:55:10,510 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.036311
+2025-01-16 14:55:35,224 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.035104
+2025-01-16 14:55:45,690 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:56:03,794 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.030761
+2025-01-16 14:56:28,054 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.025072
+2025-01-16 14:56:51,855 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.027438
+2025-01-16 14:57:03,310 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:57:19,755 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.030556
+2025-01-16 14:57:43,284 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.019236
+2025-01-16 14:58:07,865 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024148
+2025-01-16 14:58:20,631 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:58:36,020 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.018921
+2025-01-16 14:58:58,434 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.019612
+2025-01-16 14:59:21,340 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.021318
+2025-01-16 14:59:34,940 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 14:59:49,674 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.015956
+2025-01-16 15:00:13,921 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.015931
+2025-01-16 15:00:36,657 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.016912
+2025-01-16 15:00:50,869 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:01:02,855 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.016563
+2025-01-16 15:01:25,023 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.013435
+2025-01-16 15:01:47,515 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.016885
+2025-01-16 15:02:02,805 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:02:13,317 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.013049
+2025-01-16 15:02:35,809 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.012848
+2025-01-16 15:02:58,098 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.013588
+2025-01-16 15:03:14,570 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:03:24,120 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.012687
+2025-01-16 15:03:46,291 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.009670
+2025-01-16 15:04:10,315 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.010960
+2025-01-16 15:04:29,525 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:04:32,509 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 15:04:35,396 - .\log/Fdataset - INFO - fold 5 final test auroc :0.91979
+2025-01-16 15:04:35,396 - .\log/Fdataset - INFO - fold 5 final test aupr :0.49433
+2025-01-16 15:04:38,955 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 15:04:39,155 - .\log/Fdataset - INFO - start training fold 6
+2025-01-16 15:05:05,347 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.270154
+2025-01-16 15:05:28,080 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.063040
+2025-01-16 15:05:53,325 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.048751
+2025-01-16 15:05:55,441 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:06:21,122 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.049453
+2025-01-16 15:06:43,576 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.052815
+2025-01-16 15:07:07,862 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.056009
+2025-01-16 15:07:11,251 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:07:39,210 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.042424
+2025-01-16 15:08:07,326 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.061903
+2025-01-16 15:08:31,942 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.051538
+2025-01-16 15:08:36,259 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:08:58,184 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.064409
+2025-01-16 15:09:20,289 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.051623
+2025-01-16 15:09:42,574 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.045636
+2025-01-16 15:09:47,757 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:10:08,227 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.046235
+2025-01-16 15:10:31,088 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.051497
+2025-01-16 15:11:00,587 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.038885
+2025-01-16 15:11:09,072 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:11:31,603 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.034890
+2025-01-16 15:11:57,086 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.036366
+2025-01-16 15:12:25,071 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.043835
+2025-01-16 15:12:34,723 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:12:59,285 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.041926
+2025-01-16 15:13:26,443 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.033979
+2025-01-16 15:13:52,631 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.032762
+2025-01-16 15:14:03,396 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:14:27,544 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.033574
+2025-01-16 15:15:04,201 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.027595
+2025-01-16 15:15:34,920 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.030740
+2025-01-16 15:15:47,313 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:16:04,743 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.024296
+2025-01-16 15:16:28,367 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.024767
+2025-01-16 15:16:52,294 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.024727
+2025-01-16 15:17:03,800 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:17:19,877 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.022234
+2025-01-16 15:17:43,595 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.020069
+2025-01-16 15:18:07,214 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.022389
+2025-01-16 15:18:20,389 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:18:36,423 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.018811
+2025-01-16 15:19:01,596 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.016351
+2025-01-16 15:19:26,438 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.018289
+2025-01-16 15:19:41,753 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:19:57,248 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.023249
+2025-01-16 15:20:42,316 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.019925
+2025-01-16 15:21:09,697 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.016544
+2025-01-16 15:21:27,372 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:21:41,394 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.014408
+2025-01-16 15:22:07,859 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.012192
+2025-01-16 15:22:33,488 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.017489
+2025-01-16 15:22:51,084 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:23:03,508 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.013925
+2025-01-16 15:23:34,320 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.011457
+2025-01-16 15:24:06,151 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.012087
+2025-01-16 15:24:25,658 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:24:36,824 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.011473
+2025-01-16 15:25:02,471 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.008965
+2025-01-16 15:25:28,559 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.009624
+2025-01-16 15:25:58,277 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:26:01,605 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 15:26:04,576 - .\log/Fdataset - INFO - fold 6 final test auroc :0.92705
+2025-01-16 15:26:04,577 - .\log/Fdataset - INFO - fold 6 final test aupr :0.55808
+2025-01-16 15:26:11,337 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 15:26:12,042 - .\log/Fdataset - INFO - start training fold 7
+2025-01-16 15:26:38,196 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.231828
+2025-01-16 15:27:02,995 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.095760
+2025-01-16 15:27:30,131 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.073272
+2025-01-16 15:27:33,007 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:28:04,459 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.060451
+2025-01-16 15:28:28,342 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.064688
+2025-01-16 15:28:53,908 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.048219
+2025-01-16 15:28:58,043 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:29:27,491 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.075367
+2025-01-16 15:29:56,008 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.048562
+2025-01-16 15:30:23,477 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.048671
+2025-01-16 15:30:28,881 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:30:56,281 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.068410
+2025-01-16 15:31:25,472 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.047680
+2025-01-16 15:31:53,117 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.044022
+2025-01-16 15:32:00,045 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:32:25,074 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.046670
+2025-01-16 15:32:49,794 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.058654
+2025-01-16 15:33:15,877 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.049475
+2025-01-16 15:33:24,030 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:33:47,439 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.042806
+2025-01-16 15:34:14,484 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.045661
+2025-01-16 15:34:41,668 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.049837
+2025-01-16 15:34:51,112 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:35:12,481 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.040228
+2025-01-16 15:35:38,465 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.037749
+2025-01-16 15:36:01,338 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.042503
+2025-01-16 15:36:10,554 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:36:29,340 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.036576
+2025-01-16 15:36:53,320 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.033959
+2025-01-16 15:37:17,217 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.033621
+2025-01-16 15:37:27,643 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:37:44,976 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.030728
+2025-01-16 15:38:09,326 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.030602
+2025-01-16 15:38:34,946 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.032637
+2025-01-16 15:38:47,377 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:39:04,983 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.026401
+2025-01-16 15:39:31,480 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.027067
+2025-01-16 15:39:58,047 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024668
+2025-01-16 15:40:11,374 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:40:28,199 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.024343
+2025-01-16 15:40:53,144 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.017622
+2025-01-16 15:41:18,860 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.026907
+2025-01-16 15:41:32,837 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:41:47,912 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.022373
+2025-01-16 15:42:13,601 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.017043
+2025-01-16 15:42:37,518 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.023142
+2025-01-16 15:42:53,358 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:43:07,372 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.016931
+2025-01-16 15:43:33,191 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.016787
+2025-01-16 15:43:57,248 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.018143
+2025-01-16 15:44:13,989 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:44:25,415 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.019846
+2025-01-16 15:44:50,733 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.015852
+2025-01-16 15:45:16,658 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.014576
+2025-01-16 15:45:37,500 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:45:47,833 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.016733
+2025-01-16 15:46:13,455 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.013322
+2025-01-16 15:46:37,681 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.013543
+2025-01-16 15:46:57,382 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:47:00,928 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 15:47:04,145 - .\log/Fdataset - INFO - fold 7 final test auroc :0.91598
+2025-01-16 15:47:04,146 - .\log/Fdataset - INFO - fold 7 final test aupr :0.52342
+2025-01-16 15:47:10,549 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 15:47:11,266 - .\log/Fdataset - INFO - start training fold 8
+2025-01-16 15:47:38,538 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.233384
+2025-01-16 15:48:04,167 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.133682
+2025-01-16 15:48:30,183 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.059521
+2025-01-16 15:48:32,590 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:48:59,612 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.056669
+2025-01-16 15:49:27,055 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.049417
+2025-01-16 15:49:52,251 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.050677
+2025-01-16 15:49:55,881 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:50:25,019 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.049229
+2025-01-16 15:50:51,194 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.053783
+2025-01-16 15:51:19,114 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.057538
+2025-01-16 15:51:23,891 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:51:49,895 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.043390
+2025-01-16 15:52:15,067 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.047948
+2025-01-16 15:52:41,158 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.049705
+2025-01-16 15:52:46,938 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:53:10,842 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.053051
+2025-01-16 15:53:38,073 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.048810
+2025-01-16 15:54:02,708 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.042087
+2025-01-16 15:54:10,011 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:54:33,416 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.041213
+2025-01-16 15:54:59,370 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.037853
+2025-01-16 15:55:26,197 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.036346
+2025-01-16 15:55:35,301 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:55:57,559 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.043934
+2025-01-16 15:56:22,035 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.039683
+2025-01-16 15:56:49,390 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.037374
+2025-01-16 15:57:00,741 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:57:22,055 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.033462
+2025-01-16 15:57:46,520 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.030523
+2025-01-16 15:58:10,487 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.036395
+2025-01-16 15:58:20,849 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:58:38,071 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.024223
+2025-01-16 15:59:01,371 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.030113
+2025-01-16 15:59:24,692 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.026197
+2025-01-16 15:59:36,009 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 15:59:52,276 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.022594
+2025-01-16 16:00:16,428 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.023217
+2025-01-16 16:00:40,581 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024059
+2025-01-16 16:00:53,665 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:01:08,558 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.022554
+2025-01-16 16:01:32,702 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.020938
+2025-01-16 16:01:56,945 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.019432
+2025-01-16 16:02:11,028 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:02:24,730 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.021079
+2025-01-16 16:02:49,064 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.015022
+2025-01-16 16:03:12,908 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.018610
+2025-01-16 16:03:28,019 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:03:40,389 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.016347
+2025-01-16 16:04:04,166 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.018992
+2025-01-16 16:04:27,993 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.015527
+2025-01-16 16:04:44,081 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:04:55,230 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.014992
+2025-01-16 16:05:18,936 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.012051
+2025-01-16 16:05:42,609 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.013263
+2025-01-16 16:06:00,110 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:06:10,147 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.014034
+2025-01-16 16:06:33,456 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.011660
+2025-01-16 16:06:58,150 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.009903
+2025-01-16 16:07:18,388 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:07:21,319 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 16:07:24,273 - .\log/Fdataset - INFO - fold 8 final test auroc :0.94704
+2025-01-16 16:07:24,274 - .\log/Fdataset - INFO - fold 8 final test aupr :0.62028
+2025-01-16 16:07:30,240 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 16:07:30,729 - .\log/Fdataset - INFO - start training fold 9
+2025-01-16 16:07:55,405 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.221579
+2025-01-16 16:08:20,219 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.139609
+2025-01-16 16:08:49,896 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.089064
+2025-01-16 16:08:52,249 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:09:23,938 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.076407
+2025-01-16 16:09:53,181 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.077470
+2025-01-16 16:10:19,408 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.053024
+2025-01-16 16:10:23,100 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:10:49,275 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.049583
+2025-01-16 16:11:13,382 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.047390
+2025-01-16 16:11:37,774 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.050852
+2025-01-16 16:11:42,073 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:12:05,470 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.058156
+2025-01-16 16:12:29,775 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.057297
+2025-01-16 16:12:54,828 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.048814
+2025-01-16 16:13:01,131 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:13:23,838 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.049290
+2025-01-16 16:13:47,826 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.053977
+2025-01-16 16:14:12,239 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.048951
+2025-01-16 16:14:20,343 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:14:43,597 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.038731
+2025-01-16 16:15:07,526 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.047323
+2025-01-16 16:15:31,081 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.043661
+2025-01-16 16:15:39,630 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:15:59,320 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.036656
+2025-01-16 16:16:23,474 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.041671
+2025-01-16 16:16:47,696 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.041059
+2025-01-16 16:16:56,844 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:17:15,091 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.031615
+2025-01-16 16:17:41,176 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.033285
+2025-01-16 16:18:06,214 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.032350
+2025-01-16 16:18:16,693 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:18:34,244 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.032457
+2025-01-16 16:19:00,319 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.029408
+2025-01-16 16:19:25,166 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.032514
+2025-01-16 16:19:36,812 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:19:54,517 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.023312
+2025-01-16 16:20:20,784 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.025564
+2025-01-16 16:20:48,084 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024649
+2025-01-16 16:21:01,877 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:21:18,865 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.023302
+2025-01-16 16:21:47,019 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.018393
+2025-01-16 16:22:11,057 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.022042
+2025-01-16 16:22:25,583 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:22:41,367 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.016299
+2025-01-16 16:23:05,750 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.018759
+2025-01-16 16:23:30,996 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.016222
+2025-01-16 16:23:46,020 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:23:58,336 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.016592
+2025-01-16 16:24:21,902 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.013134
+2025-01-16 16:24:46,078 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.011778
+2025-01-16 16:25:04,111 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:25:17,172 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.013849
+2025-01-16 16:25:41,150 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.009906
+2025-01-16 16:26:06,022 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.014908
+2025-01-16 16:26:24,980 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:26:36,393 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.010383
+2025-01-16 16:27:02,103 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.008755
+2025-01-16 16:27:28,666 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.009581
+2025-01-16 16:27:47,413 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:27:50,403 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 16:27:53,442 - .\log/Fdataset - INFO - fold 9 final test auroc :0.93914
+2025-01-16 16:27:53,442 - .\log/Fdataset - INFO - fold 9 final test aupr :0.52300
+2025-01-16 16:28:02,820 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-01-16 16:28:03,430 - .\log/Fdataset - INFO - start training fold 10
+2025-01-16 16:28:30,638 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.231076
+2025-01-16 16:28:55,552 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.141365
+2025-01-16 16:29:21,413 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.065372
+2025-01-16 16:29:23,560 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:29:51,377 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.052022
+2025-01-16 16:30:15,796 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.053572
+2025-01-16 16:30:40,299 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.056051
+2025-01-16 16:30:43,523 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:31:08,898 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.046874
+2025-01-16 16:31:36,351 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.048693
+2025-01-16 16:32:03,352 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.050856
+2025-01-16 16:32:08,676 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:32:34,917 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.046479
+2025-01-16 16:33:01,469 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.046045
+2025-01-16 16:33:27,708 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.049829
+2025-01-16 16:33:33,861 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:33:58,950 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.053851
+2025-01-16 16:34:25,175 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.054340
+2025-01-16 16:34:51,947 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.044775
+2025-01-16 16:34:59,562 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:35:22,807 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.040130
+2025-01-16 16:35:48,715 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.042933
+2025-01-16 16:36:15,999 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039465
+2025-01-16 16:36:25,461 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:36:46,920 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.040017
+2025-01-16 16:37:12,871 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.040926
+2025-01-16 16:37:36,720 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.037979
+2025-01-16 16:37:46,134 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:38:07,186 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.036576
+2025-01-16 16:38:35,035 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.040394
+2025-01-16 16:38:59,801 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.033032
+2025-01-16 16:39:10,700 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:39:27,935 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.032245
+2025-01-16 16:39:51,951 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.027585
+2025-01-16 16:40:15,690 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.034875
+2025-01-16 16:40:27,372 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:40:43,424 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.027382
+2025-01-16 16:41:07,326 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.028121
+2025-01-16 16:41:32,064 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.027260
+2025-01-16 16:41:45,481 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:42:00,338 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.027414
+2025-01-16 16:42:24,571 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.022439
+2025-01-16 16:42:48,819 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.023390
+2025-01-16 16:43:02,726 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:43:16,601 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.020606
+2025-01-16 16:43:43,369 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.018060
+2025-01-16 16:44:10,132 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.021339
+2025-01-16 16:44:25,090 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:44:37,492 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.017910
+2025-01-16 16:45:02,275 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.016853
+2025-01-16 16:45:27,470 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.018736
+2025-01-16 16:45:44,548 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:45:57,141 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.016236
+2025-01-16 16:46:23,255 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.014818
+2025-01-16 16:46:48,354 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.014339
+2025-01-16 16:47:10,717 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:47:21,098 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.014708
+2025-01-16 16:47:45,665 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.012334
+2025-01-16 16:48:09,690 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.011497
+2025-01-16 16:48:29,823 - .\log/Fdataset - INFO - evaluate data:valid
+2025-01-16 16:48:32,822 - .\log/Fdataset - INFO - evaluate data:test
+2025-01-16 16:48:35,834 - .\log/Fdataset - INFO - fold 10 final test auroc :0.95237
+2025-01-16 16:48:35,834 - .\log/Fdataset - INFO - fold 10 final test aupr :0.67041
+2025-02-04 11:52:17,203 - .\log/Fdataset - INFO - drug count :593
+2025-02-04 11:52:17,203 - .\log/Fdataset - INFO - disease count:313
+2025-02-04 11:52:19,809 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 11:52:20,354 - .\log/Fdataset - INFO - start training fold 1
+2025-02-04 11:52:42,068 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.213649
+2025-02-04 11:53:01,551 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.131290
+2025-02-04 11:53:20,690 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.094841
+2025-02-04 11:53:22,008 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 11:53:43,188 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.048926
+2025-02-04 11:54:02,522 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.052977
+2025-02-04 11:54:21,964 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.133764
+2025-02-04 11:54:24,303 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 11:54:46,591 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.053081
+2025-02-04 11:55:06,497 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.063772
+2025-02-04 11:55:26,318 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.052534
+2025-02-04 11:55:29,804 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 11:55:49,730 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.048623
+2025-02-04 11:56:13,317 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.040978
+2025-02-04 11:56:36,751 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.071991
+2025-02-04 11:56:42,402 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 11:57:02,632 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.057915
+2025-02-04 11:57:26,194 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050537
+2025-02-04 11:58:19,078 - .\log/Fdataset - INFO - drug count :593
+2025-02-04 11:58:19,078 - .\log/Fdataset - INFO - disease count:313
+2025-02-04 11:59:27,293 - .\log/Fdataset - INFO - drug count :593
+2025-02-04 11:59:27,293 - .\log/Fdataset - INFO - disease count:313
+2025-02-04 11:59:30,295 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 11:59:30,539 - .\log/Fdataset - INFO - start training fold 1
+2025-02-04 11:59:53,854 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.220681
+2025-02-04 12:00:13,368 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.108768
+2025-02-04 12:00:32,682 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.130449
+2025-02-04 12:00:33,762 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:00:55,974 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.062321
+2025-02-04 12:01:21,356 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.068213
+2025-02-04 12:02:02,272 - .\log/Fdataset - INFO - drug count :593
+2025-02-04 12:02:02,278 - .\log/Fdataset - INFO - disease count:313
+2025-02-04 12:02:04,513 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 12:02:04,757 - .\log/Fdataset - INFO - start training fold 1
+2025-02-04 12:02:27,245 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.220681
+2025-02-04 12:02:48,199 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.108768
+2025-02-04 12:03:07,372 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.130449
+2025-02-04 12:03:08,357 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:03:30,205 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.062321
+2025-02-04 12:03:53,225 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.068213
+2025-02-04 12:04:14,207 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.064357
+2025-02-04 12:04:16,180 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:04:36,454 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.053859
+2025-02-04 12:04:59,795 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.066065
+2025-02-04 12:05:25,249 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.055892
+2025-02-04 12:05:28,257 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:05:47,998 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.053428
+2025-02-04 12:06:10,666 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.043368
+2025-02-04 12:08:34,490 - .\log/Fdataset - INFO - drug count :593
+2025-02-04 12:08:34,503 - .\log/Fdataset - INFO - disease count:313
+2025-02-04 12:08:36,907 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 12:08:37,118 - .\log/Fdataset - INFO - start training fold 1
+2025-02-04 12:08:56,632 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.213649
+2025-02-04 12:09:18,088 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.131290
+2025-02-04 12:09:38,760 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.094841
+2025-02-04 12:09:40,665 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:10:04,583 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.048926
+2025-02-04 12:10:25,402 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.052977
+2025-02-04 12:10:58,317 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.133764
+2025-02-04 12:11:04,206 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:11:41,610 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.053081
+2025-02-04 12:12:07,865 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.063772
+2025-02-04 12:12:39,438 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.052534
+2025-02-04 12:12:45,803 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:13:14,834 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.048623
+2025-02-04 12:13:50,577 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.040978
+2025-02-04 12:14:52,209 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.071991
+2025-02-04 12:15:07,660 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:15:36,763 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.057915
+2025-02-04 12:16:06,571 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050537
+2025-02-04 12:16:34,399 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.055383
+2025-02-04 12:16:41,835 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:17:04,318 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.045239
+2025-02-04 12:17:28,972 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.052661
+2025-02-04 12:17:57,907 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.043392
+2025-02-04 12:18:06,510 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:18:24,184 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.050609
+2025-02-04 12:18:46,358 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.043254
+2025-02-04 12:19:09,982 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.038725
+2025-02-04 12:19:19,559 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:19:39,861 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.042005
+2025-02-04 12:20:07,868 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.041307
+2025-02-04 12:20:31,288 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.040598
+2025-02-04 12:20:40,637 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:20:58,790 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.035659
+2025-02-04 12:21:28,784 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.032242
+2025-02-04 12:22:00,848 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.035530
+2025-02-04 12:22:13,609 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:22:29,226 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.033324
+2025-02-04 12:22:51,227 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.034034
+2025-02-04 12:23:15,019 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.029220
+2025-02-04 12:23:27,045 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:23:41,847 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.033897
+2025-02-04 12:24:04,372 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.029055
+2025-02-04 12:24:26,704 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.027336
+2025-02-04 12:24:39,925 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:24:55,210 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.026275
+2025-02-04 12:25:18,531 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.023196
+2025-02-04 12:25:39,812 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.031234
+2025-02-04 12:25:53,848 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:26:05,076 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.024222
+2025-02-04 12:26:26,063 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.020306
+2025-02-04 12:26:47,186 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.023883
+2025-02-04 12:27:03,905 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:27:14,729 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.020571
+2025-02-04 12:27:36,818 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.014994
+2025-02-04 12:27:59,719 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.019837
+2025-02-04 12:28:15,130 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:28:24,521 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.016119
+2025-02-04 12:28:46,532 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.015484
+2025-02-04 12:29:07,296 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.016939
+2025-02-04 12:29:23,796 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:29:35,391 - .\log/Fdataset - INFO - model saved
+2025-02-04 12:29:35,391 - .\log/Fdataset - INFO - evaluate data:test
+2025-02-04 12:29:38,411 - .\log/Fdataset - INFO - fold 1 final test auroc :0.89358
+2025-02-04 12:29:38,412 - .\log/Fdataset - INFO - fold 1 final test aupr :0.45356
+2025-02-04 12:29:44,470 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 12:29:45,155 - .\log/Fdataset - INFO - start training fold 2
+2025-02-04 12:30:08,176 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.240427
+2025-02-04 12:30:32,156 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.089685
+2025-02-04 12:30:54,267 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.086864
+2025-02-04 12:30:56,342 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:31:24,982 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.059523
+2025-02-04 12:31:51,419 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.045823
+2025-02-04 12:32:12,745 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.057002
+2025-02-04 12:32:15,579 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:32:42,763 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.043284
+2025-02-04 12:33:08,668 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.050764
+2025-02-04 12:33:34,832 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.070854
+2025-02-04 12:33:42,801 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:34:12,280 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.080022
+2025-02-04 12:34:37,772 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.050805
+2025-02-04 12:35:02,563 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.050806
+2025-02-04 12:35:07,844 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:35:29,163 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.044263
+2025-02-04 12:35:50,694 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.048786
+2025-02-04 12:36:13,319 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.056875
+2025-02-04 12:36:19,460 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:36:40,311 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.042611
+2025-02-04 12:37:02,760 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.049460
+2025-02-04 12:37:24,684 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039431
+2025-02-04 12:37:32,166 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:37:50,555 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.040388
+2025-02-04 12:38:13,609 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.033477
+2025-02-04 12:38:35,482 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.043140
+2025-02-04 12:38:43,567 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:39:06,450 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.038904
+2025-02-04 12:39:32,726 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.033648
+2025-02-04 12:39:57,738 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.031794
+2025-02-04 12:40:08,622 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:40:27,466 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.033257
+2025-02-04 12:40:52,696 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.035858
+2025-02-04 12:41:16,420 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.034235
+2025-02-04 12:41:27,444 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:41:42,727 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.032241
+2025-02-04 12:42:06,358 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.028951
+2025-02-04 12:42:28,447 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.028420
+2025-02-04 12:42:40,057 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:42:55,058 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.024521
+2025-02-04 12:43:20,384 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.024667
+2025-02-04 12:43:44,888 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.029528
+2025-02-04 12:43:58,108 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:44:11,922 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.027012
+2025-02-04 12:44:36,788 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.021412
+2025-02-04 12:45:01,358 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.023420
+2025-02-04 12:45:16,329 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:45:28,832 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.021712
+2025-02-04 12:45:53,647 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.020282
+2025-02-04 12:46:20,822 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.020562
+2025-02-04 12:46:37,136 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:46:51,536 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.023997
+2025-02-04 12:47:15,933 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.017679
+2025-02-04 12:47:42,523 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.018662
+2025-02-04 12:47:59,351 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:48:08,570 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.013251
+2025-02-04 12:48:30,595 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.015210
+2025-02-04 12:49:00,464 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.016074
+2025-02-04 12:49:20,880 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:49:31,292 - .\log/Fdataset - INFO - model saved
+2025-02-04 12:49:31,292 - .\log/Fdataset - INFO - evaluate data:test
+2025-02-04 12:49:34,625 - .\log/Fdataset - INFO - fold 2 final test auroc :0.92960
+2025-02-04 12:49:34,625 - .\log/Fdataset - INFO - fold 2 final test aupr :0.47327
+2025-02-04 12:49:40,434 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 12:49:40,817 - .\log/Fdataset - INFO - start training fold 3
+2025-02-04 12:50:04,929 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.210654
+2025-02-04 12:50:28,228 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.071141
+2025-02-04 12:50:49,985 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.065808
+2025-02-04 12:50:51,876 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:51:20,313 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.057174
+2025-02-04 12:51:45,697 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.047392
+2025-02-04 12:52:17,068 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.070739
+2025-02-04 12:52:21,960 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:52:47,795 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.068444
+2025-02-04 12:53:16,265 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.055606
+2025-02-04 12:53:37,188 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.048018
+2025-02-04 12:53:41,636 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:54:12,166 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.047094
+2025-02-04 12:54:40,029 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.051058
+2025-02-04 12:55:07,238 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.041165
+2025-02-04 12:55:12,327 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:55:39,197 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.046255
+2025-02-04 12:56:13,956 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.036461
+2025-02-04 12:56:39,285 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.042042
+2025-02-04 12:56:46,488 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:57:05,223 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.036067
+2025-02-04 12:57:26,076 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.040451
+2025-02-04 12:57:49,493 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039740
+2025-02-04 12:57:57,234 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:58:15,212 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.027587
+2025-02-04 12:58:40,216 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.037770
+2025-02-04 12:59:05,714 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.031845
+2025-02-04 12:59:13,496 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 12:59:30,959 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.029655
+2025-02-04 12:59:58,272 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.031357
+2025-02-04 13:00:22,064 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.026432
+2025-02-04 13:00:31,530 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:00:46,269 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.024453
+2025-02-04 13:01:06,721 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.023431
+2025-02-04 13:01:27,469 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.024997
+2025-02-04 13:01:37,339 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:01:51,249 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.020755
+2025-02-04 13:02:11,859 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.016038
+2025-02-04 13:02:32,601 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024108
+2025-02-04 13:02:43,353 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:02:56,521 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.016138
+2025-02-04 13:03:17,497 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.013548
+2025-02-04 13:03:38,075 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.017119
+2025-02-04 13:03:49,983 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:04:02,146 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.014845
+2025-02-04 13:04:22,698 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.012138
+2025-02-04 13:04:43,163 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.012324
+2025-02-04 13:04:56,447 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:05:07,489 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.009100
+2025-02-04 13:05:28,198 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.008695
+2025-02-04 13:05:48,936 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.008878
+2025-02-04 13:06:18,104 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:06:28,645 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.010136
+2025-02-04 13:06:48,769 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.006637
+2025-02-04 13:07:11,201 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.008678
+2025-02-04 13:07:30,831 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:07:44,384 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.007636
+2025-02-04 13:08:10,636 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.006782
+2025-02-04 13:08:32,792 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.004346
+2025-02-04 13:08:56,591 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:09:10,480 - .\log/Fdataset - INFO - model saved
+2025-02-04 13:09:10,494 - .\log/Fdataset - INFO - evaluate data:test
+2025-02-04 13:09:15,308 - .\log/Fdataset - INFO - fold 3 final test auroc :0.94703
+2025-02-04 13:09:15,309 - .\log/Fdataset - INFO - fold 3 final test aupr :0.62742
+2025-02-04 13:09:23,892 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 13:09:24,374 - .\log/Fdataset - INFO - start training fold 4
+2025-02-04 13:09:52,175 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.260684
+2025-02-04 13:10:18,469 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.093802
+2025-02-04 13:10:43,993 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.071650
+2025-02-04 13:10:46,458 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:11:14,039 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.094938
+2025-02-04 13:11:38,956 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.049356
+2025-02-04 13:12:05,098 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.051508
+2025-02-04 13:12:08,678 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:12:35,713 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.050374
+2025-02-04 13:13:10,313 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.044681
+2025-02-04 13:13:42,507 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.051584
+2025-02-04 13:13:47,727 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:14:18,994 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.046982
+2025-02-04 13:14:48,841 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.047372
+2025-02-04 13:15:18,974 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.043048
+2025-02-04 13:15:27,700 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:16:05,351 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.051130
+2025-02-04 13:16:35,062 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050564
+2025-02-04 13:17:02,599 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.048929
+2025-02-04 13:17:10,986 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:17:36,550 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.047641
+2025-02-04 13:18:02,067 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.058254
+2025-02-04 13:18:29,328 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.039842
+2025-02-04 13:18:38,538 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:19:01,387 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.048859
+2025-02-04 13:19:31,499 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.037660
+2025-02-04 13:19:59,746 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.039800
+2025-02-04 13:20:10,325 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:20:30,576 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.031990
+2025-02-04 13:21:00,722 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.035255
+2025-02-04 13:21:34,462 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.031338
+2025-02-04 13:21:44,833 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:22:05,170 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.030321
+2025-02-04 13:22:29,309 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.032716
+2025-02-04 13:22:53,605 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.025966
+2025-02-04 13:23:05,312 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:23:21,640 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.022294
+2025-02-04 13:23:47,278 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.022449
+2025-02-04 13:24:14,156 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024663
+2025-02-04 13:24:27,539 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:24:44,445 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.021740
+2025-02-04 13:25:09,618 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.019509
+2025-02-04 13:25:37,020 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.021225
+2025-02-04 13:25:55,510 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:26:11,449 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.020101
+2025-02-04 13:26:39,941 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.015253
+2025-02-04 13:27:07,793 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.017921
+2025-02-04 13:27:27,167 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:27:40,811 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.017222
+2025-02-04 13:28:11,843 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.014819
+2025-02-04 13:28:43,790 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.014688
+2025-02-04 13:29:06,203 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:29:17,684 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.015947
+2025-02-04 13:29:42,570 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.012923
+2025-02-04 13:30:06,233 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.012985
+2025-02-04 13:30:29,118 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:30:43,180 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.012787
+2025-02-04 13:31:08,705 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.011172
+2025-02-04 13:31:32,382 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.011265
+2025-02-04 13:31:51,991 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:32:03,985 - .\log/Fdataset - INFO - model saved
+2025-02-04 13:32:03,985 - .\log/Fdataset - INFO - evaluate data:test
+2025-02-04 13:32:07,255 - .\log/Fdataset - INFO - fold 4 final test auroc :0.93160
+2025-02-04 13:32:07,255 - .\log/Fdataset - INFO - fold 4 final test aupr :0.60335
+2025-02-04 13:32:13,780 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 13:32:14,262 - .\log/Fdataset - INFO - start training fold 5
+2025-02-04 13:32:41,893 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.261691
+2025-02-04 13:33:07,762 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.157486
+2025-02-04 13:33:33,616 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.094516
+2025-02-04 13:33:35,586 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:34:16,618 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.076659
+2025-02-04 13:34:44,303 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.061833
+2025-02-04 13:35:10,851 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.058318
+2025-02-04 13:35:14,062 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:35:39,610 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.055352
+2025-02-04 13:36:12,988 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.060730
+2025-02-04 13:36:40,895 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.038711
+2025-02-04 13:36:45,800 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:37:18,708 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.039579
+2025-02-04 13:37:46,802 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.048259
+2025-02-04 13:38:12,820 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.062912
+2025-02-04 13:38:18,220 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:38:41,808 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.050742
+2025-02-04 13:39:12,139 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.050082
+2025-02-04 13:39:42,013 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.041578
+2025-02-04 13:39:49,720 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:40:16,827 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.039144
+2025-02-04 13:40:40,810 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.042944
+2025-02-04 13:41:06,838 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.047873
+2025-02-04 13:41:14,933 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:41:38,871 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.035560
+2025-02-04 13:42:05,756 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.035372
+2025-02-04 13:42:28,734 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.038479
+2025-02-04 13:42:41,141 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:43:00,786 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.034689
+2025-02-04 13:43:37,601 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.036040
+2025-02-04 13:44:03,909 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.034836
+2025-02-04 13:44:13,997 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:44:40,866 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.030399
+2025-02-04 13:45:11,415 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.024920
+2025-02-04 13:45:40,365 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.027534
+2025-02-04 13:45:51,508 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:46:09,926 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.030578
+2025-02-04 13:46:35,460 - .\log/Fdataset - INFO - epoch:10 step:31/61, loss: 0.019299
+2025-02-04 13:46:58,311 - .\log/Fdataset - INFO - epoch:10 step:51/61, loss: 0.024226
+2025-02-04 13:47:11,252 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:47:29,757 - .\log/Fdataset - INFO - epoch:11 step:10/61, loss: 0.018855
+2025-02-04 13:47:55,761 - .\log/Fdataset - INFO - epoch:11 step:30/61, loss: 0.019608
+2025-02-04 13:48:19,617 - .\log/Fdataset - INFO - epoch:11 step:50/61, loss: 0.021341
+2025-02-04 13:48:33,001 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:48:45,937 - .\log/Fdataset - INFO - epoch:12 step:9/61, loss: 0.015947
+2025-02-04 13:49:10,887 - .\log/Fdataset - INFO - epoch:12 step:29/61, loss: 0.016400
+2025-02-04 13:49:35,307 - .\log/Fdataset - INFO - epoch:12 step:49/61, loss: 0.017283
+2025-02-04 13:49:50,377 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:50:06,050 - .\log/Fdataset - INFO - epoch:13 step:8/61, loss: 0.016581
+2025-02-04 13:50:29,598 - .\log/Fdataset - INFO - epoch:13 step:28/61, loss: 0.013968
+2025-02-04 13:50:53,234 - .\log/Fdataset - INFO - epoch:13 step:48/61, loss: 0.017420
+2025-02-04 13:51:08,221 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:51:18,883 - .\log/Fdataset - INFO - epoch:14 step:7/61, loss: 0.013723
+2025-02-04 13:51:42,442 - .\log/Fdataset - INFO - epoch:14 step:27/61, loss: 0.012648
+2025-02-04 13:52:05,401 - .\log/Fdataset - INFO - epoch:14 step:47/61, loss: 0.015532
+2025-02-04 13:52:23,994 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:52:34,986 - .\log/Fdataset - INFO - epoch:15 step:6/61, loss: 0.012394
+2025-02-04 13:53:01,784 - .\log/Fdataset - INFO - epoch:15 step:26/61, loss: 0.010519
+2025-02-04 13:53:26,436 - .\log/Fdataset - INFO - epoch:15 step:46/61, loss: 0.010932
+2025-02-04 13:53:44,241 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:53:55,311 - .\log/Fdataset - INFO - model saved
+2025-02-04 13:53:55,315 - .\log/Fdataset - INFO - evaluate data:test
+2025-02-04 13:53:58,437 - .\log/Fdataset - INFO - fold 5 final test auroc :0.91762
+2025-02-04 13:53:58,440 - .\log/Fdataset - INFO - fold 5 final test aupr :0.49781
+2025-02-04 13:54:02,717 - .\log/Fdataset - INFO - Created model with fresh parameters.
+2025-02-04 13:54:03,106 - .\log/Fdataset - INFO - start training fold 6
+2025-02-04 13:54:31,941 - .\log/Fdataset - INFO - epoch:1 step:20/61, loss: 0.270154
+2025-02-04 13:55:01,124 - .\log/Fdataset - INFO - epoch:1 step:40/61, loss: 0.063040
+2025-02-04 13:55:30,484 - .\log/Fdataset - INFO - epoch:1 step:60/61, loss: 0.048751
+2025-02-04 13:55:33,121 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:56:11,261 - .\log/Fdataset - INFO - epoch:2 step:19/61, loss: 0.049453
+2025-02-04 13:56:41,470 - .\log/Fdataset - INFO - epoch:2 step:39/61, loss: 0.052815
+2025-02-04 13:57:08,548 - .\log/Fdataset - INFO - epoch:2 step:59/61, loss: 0.056009
+2025-02-04 13:57:12,984 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:57:51,219 - .\log/Fdataset - INFO - epoch:3 step:18/61, loss: 0.042424
+2025-02-04 13:58:16,981 - .\log/Fdataset - INFO - epoch:3 step:38/61, loss: 0.061903
+2025-02-04 13:58:41,360 - .\log/Fdataset - INFO - epoch:3 step:58/61, loss: 0.051538
+2025-02-04 13:58:47,872 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 13:59:11,945 - .\log/Fdataset - INFO - epoch:4 step:17/61, loss: 0.064409
+2025-02-04 13:59:36,679 - .\log/Fdataset - INFO - epoch:4 step:37/61, loss: 0.051623
+2025-02-04 13:59:59,388 - .\log/Fdataset - INFO - epoch:4 step:57/61, loss: 0.045636
+2025-02-04 14:00:04,660 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:00:30,254 - .\log/Fdataset - INFO - epoch:5 step:16/61, loss: 0.046235
+2025-02-04 14:00:57,237 - .\log/Fdataset - INFO - epoch:5 step:36/61, loss: 0.051496
+2025-02-04 14:01:23,654 - .\log/Fdataset - INFO - epoch:5 step:56/61, loss: 0.038884
+2025-02-04 14:01:34,893 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:01:56,781 - .\log/Fdataset - INFO - epoch:6 step:15/61, loss: 0.034892
+2025-02-04 14:02:22,176 - .\log/Fdataset - INFO - epoch:6 step:35/61, loss: 0.036370
+2025-02-04 14:02:47,210 - .\log/Fdataset - INFO - epoch:6 step:55/61, loss: 0.043836
+2025-02-04 14:02:54,400 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:03:12,050 - .\log/Fdataset - INFO - epoch:7 step:14/61, loss: 0.041915
+2025-02-04 14:03:33,717 - .\log/Fdataset - INFO - epoch:7 step:34/61, loss: 0.033964
+2025-02-04 14:03:55,751 - .\log/Fdataset - INFO - epoch:7 step:54/61, loss: 0.032739
+2025-02-04 14:04:04,587 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:04:21,534 - .\log/Fdataset - INFO - epoch:8 step:13/61, loss: 0.033623
+2025-02-04 14:04:42,883 - .\log/Fdataset - INFO - epoch:8 step:33/61, loss: 0.027577
+2025-02-04 14:05:05,083 - .\log/Fdataset - INFO - epoch:8 step:53/61, loss: 0.030755
+2025-02-04 14:05:14,609 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:05:31,237 - .\log/Fdataset - INFO - epoch:9 step:12/61, loss: 0.024278
+2025-02-04 14:05:52,896 - .\log/Fdataset - INFO - epoch:9 step:32/61, loss: 0.024788
+2025-02-04 14:06:13,807 - .\log/Fdataset - INFO - epoch:9 step:52/61, loss: 0.024701
+2025-02-04 14:06:23,480 - .\log/Fdataset - INFO - evaluate data:valid
+2025-02-04 14:06:39,975 - .\log/Fdataset - INFO - epoch:10 step:11/61, loss: 0.022239

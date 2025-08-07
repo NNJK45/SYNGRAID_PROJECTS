@@ -1,5 +1,7 @@
 # Graph Neural Networks for Drug Repositioning
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import numpy as np
 from keras.regularizers import l2
 from tensorflow.python.keras.layers import Dense
