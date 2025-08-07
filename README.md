@@ -29,7 +29,7 @@ First, clone this repository:
 bash
 Copier
 Modifier
-git clone https://github.com/<your-org-or-username>/SYNGRAID.git
+git clone[ https://github.com/<your-org-or-username>/SYNGRAID.git](https://github.com/NNJK45/SYNGRAID_PROJECTS.git)
 cd SYNGRAID
 bash
 Copier
@@ -71,4 +71,3 @@ AUPR (Area Under Precision-Recall Curve)
 If you use this work, please cite:
 
 
-The SYNGRAID model (Synthesis Graph-based Retrosynthetic AI Designer) is a novel architecture designed to predict relevant small molecules (e.g., drugs) by leveraging a heterogeneous biomedical knowledge graph that integrates diseases, drugs, and genes.
